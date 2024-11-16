@@ -1,11 +1,8 @@
-<<<<<<< HEAD
 # Bond-price-predictor
 
 <a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
-
-A short description of the project.
 
 ## Project Organization
 
@@ -19,7 +16,7 @@ A short description of the project.
 │   ├── processed      <- The final, canonical data sets for modeling.
 │   └── raw            <- The original, immutable data dump.
 │
-├── docs               <- A default mkdocs project; see www.mkdocs.org for details
+├── docs               
 │
 ├── models             <- Trained and serialized models, model predictions, or model summaries
 │
@@ -57,9 +54,3 @@ A short description of the project.
     │
     └── plots.py                <- Code to create visualizations
 ```
-
---------
-
-=======
-# Bond-Price-Predictor
->>>>>>> e1dbf59eb87adacdb6d3c0790ca25d6298b4aada
