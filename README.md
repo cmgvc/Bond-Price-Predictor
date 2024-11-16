@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Bond-price-predictor
 
 <a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
@@ -59,3 +60,6 @@ A short description of the project.
 
 --------
 
+=======
+# Bond-Price-Predictor
+>>>>>>> e1dbf59eb87adacdb6d3c0790ca25d6298b4aada
